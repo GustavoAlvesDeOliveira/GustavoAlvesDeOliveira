@@ -40,7 +40,7 @@ Gosto de explorar como a tecnologia pode deixar o cotidiano (como a culinária!)
 
 ### 📊 Estatísticas do GitHub  
 
-![Estatísticas do Gustavo](https://github-readme-stats.vercel.app/api?username=GustavoAlvesDeOliveiraa&show_icons=true&theme=tokyonight)  
+![Estatísticas do Gustavo](https://github-readme-stats.vercel.app/api?username=GustavoAlvesDeOliveira&show_icons=true&theme=tokyonight)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlvesDeOliveira&layout=compact&theme=tokyonight)
 
 ---
