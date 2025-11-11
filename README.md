@@ -45,4 +45,6 @@ Gosto de explorar como a tecnologia pode deixar o cotidiano mais interativo e di
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoAlvesDeOliveira/GustavoAlvesDeOliveira/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 
