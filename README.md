@@ -21,15 +21,15 @@ Gosto de explorar como a tecnologia pode deixar o cotidiano mais interativo e di
 ---
 
 ### Linguagens e Ferramentas  
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FFB800?style=for-the-badge&logo=icloud&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E61E1E?style=for-the-badge&logo=joplin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-
+---
 ### Curiosidade  
 > “Meu projeto individual do primeiro semestre da faculdade (SPTECH) foi culinária com glaceon (Pokemon)” 
 ---
@@ -38,7 +38,8 @@ Gosto de explorar como a tecnologia pode deixar o cotidiano mais interativo e di
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)  
 ---
 
-###
+---
+### GitHub stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoAlvesDeOliveira/GustavoAlvesDeOliveira/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoAlvesDeOliveira/GustavoAlvesDeOliveira/output/pacman-contribution-graph.svg">
