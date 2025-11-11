@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH5zK5tXHTDSQ/profile-displaybackgroundimage-shrink_350_1400/B4DZp027l4KUAY-/0/1762897149181?e=1764201600&v=beta&t=oI2-lzVtgteTpkIp9jOhG4dvE4v-cTyiDtonYtOcbbk" width="800" alt="Gustavo Banner" style="border-radius: 20px;">
+  <img src="https://github.com/GustavoAlvesDeOliveira/GustavoAlvesDeOliveira/blob/main/Banner.png" width="800" alt="Gustavo Banner" style="border-radius: 20px;">
 </p>
 
 Sou Gustavo, estudante de **Ciência da Computação**, apaixonado por programação — especialmente quando envolvem lógica. 
