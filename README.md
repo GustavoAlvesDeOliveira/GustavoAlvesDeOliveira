@@ -3,26 +3,22 @@
   <img src="https://github.com/GustavoAOliveira/GustavoAOliveira/blob/main/BannerGlaceon.png" width="800" alt="Gustavo Banner" style="border-radius: 20px;">
 </p>
 
-Sou estudante de **Desenvolvimento de Software / Ciência da Computação**, apaixonado por transformar ideias em experiências digitais criativas — especialmente quando envolvem lógica, design e um toque de sabor 🍳💙  
-Gosto de explorar como a tecnologia pode deixar o cotidiano (como a culinária!) mais interativo e divertido.  
+Sou estudante de **Ciência da Computação**, apaixonado por programação — especialmente quando envolvem lógica. 💙  
+Gosto de explorar como a tecnologia pode deixar o cotidiano mais interativo e divertido.  
 
 ---
 
 ### 🎓 Sobre Mim  
-- 💻 Estudando **Desenvolvimento de Software / Ciência da Computação**  
-- 🍰 Criando um **projeto de culinária** com identidade visual inspirada no **Glaceon**, unindo design, interatividade e receitas  
-- 🎮 Interessado em **desenvolvimento web**, **UX/UI** e **projetos criativos**  
-- 🤖 Curioso sobre **automação, dados e computação em nuvem**  
-- ☕ Mais produtivo durante a noite — com música e um bom lanche por perto  
-
+- 💻 Estudando **Ciência da Computação**  
+- 🎮 Interessado em **Nuvem** e **Java**
+- 🤖 Curioso sobre **automação, dados e computação em nuvem**
 ---
 
 ### 💡 O que eu gosto  
-- Criar interfaces que realmente ganham vida ✨  
+- InfraEstrutura em nuvem
 - Aprender novas linguagens e frameworks  
-- Misturar criatividade com tecnologia  
-- Transformar pequenas ideias em grandes projetos  
-- Pokémon, games e um bom design organizado  
+- Tecnologias no geral
+- Pokémon, games e um bom design
 
 ---
 
@@ -46,7 +42,7 @@ Gosto de explorar como a tecnologia pode deixar o cotidiano (como a culinária!)
 ---
 
 ### ✨ Curiosidade  
-> “Minhas receitas favoritas são escritas em código — e às vezes em HTML.” 👨‍🍳💾  
+> “Meu projeto individual do primeiro semestre da faculdade (SPTECH) foi culinária com glaceons” 👨‍🍳💾  
 
 ---
 
