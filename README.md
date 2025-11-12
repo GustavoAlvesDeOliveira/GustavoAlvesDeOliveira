@@ -14,7 +14,7 @@ Gosto de explorar como a tecnologia pode deixar o cotidiano mais interativo e di
 ---
 
 ###  O que eu gosto  
-- Aprender novas linguagens e frameworks  
+- Aprender novas linguagens 
 - Tecnologias no geral
 - Infraestrutura em nuvem
 - Pokémon, games e um bom design
